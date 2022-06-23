@@ -36,7 +36,7 @@ def Crop_Recomendation(input_data):
 def main():
     # title
    
-    st.title('Crop Prediction Using ML')
+    st.title('Crop Recomendation by Land Gredient')
     # getting the data from the users
     
 
