@@ -60,6 +60,9 @@ def main():
         Recomendation= Crop_Recomendation([N, P, K, temprature, humidity, ph, Rainfall])
     
     st.success(Recomendation)
+    
+st.title('UNIVERSITY OF SIALKOT')
+st.title('Developed By:    Muhammad Ishfaq')
 
     
 if __name__ == '__main__':
