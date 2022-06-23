@@ -61,9 +61,10 @@ def main():
     
     st.success(Recomendation)
     
-st.title('UNIVERSITY OF SIALKOT')
-st.title('Developed By:    Muhammad Ishfaq')
+
 
     
 if __name__ == '__main__':
     main()
+st.title('UNIVERSITY OF SIALKOT')
+st.title('Developed By:    Muhammad Ishfaq')
